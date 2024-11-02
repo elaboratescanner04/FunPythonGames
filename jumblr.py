@@ -1,7 +1,7 @@
 import random
   
 score = 0
-print("---Word Jumbling Game---")
+print("---Jumbled Word Guessing Game---")
 print("All words are based on Python terms.")
 player_name = input('Please enter your name: ') 
 
